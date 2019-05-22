@@ -1,5 +1,5 @@
 def prime?(num)
-  if num % num == 0 && 
+  a = [2..]
     #numbers that cannot be made by multiplying other whole numbers 
 end
 
